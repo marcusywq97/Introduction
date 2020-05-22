@@ -1,5 +1,5 @@
 # hello-world
-Introduction to GitHub 
+Self-Introduction to GitHub 
 
 Hi readers,
 
