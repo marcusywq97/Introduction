@@ -1,10 +1,11 @@
 <html>
-  <title>
-    Self Introduction
-  </title>
+  <head>
+    <title>Self Introduction</title>
+  </head>
   <body>
-    Hi readers, I am Marcus Yeo and i have a few retarded friends. Here are some pictures of prove. ENJOY!!
+    <h1 style="text-align:center;">Hi readers, I am Marcus Yeo and i have a few retarded friends. Here are some pictures of prove. ENJOY!!<
+      <img src="koksuan.jpg"><img src="chaorui.jpg>
   </body>
-  <img src="C:\Users\mywq9\OneDrive\Desktop\photo_2020-05-18_20-38-39.jpg">
+  
 </html>
   
