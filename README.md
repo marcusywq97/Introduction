@@ -1,5 +1,5 @@
 # hello-world
-1st try 
+Introduction to GitHub 
 
 Hi readers,
 
