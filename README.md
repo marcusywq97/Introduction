@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 Self-Introduction to GitHub 
 
 Hi readers,
