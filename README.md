@@ -4,7 +4,7 @@
   </head>
   <body>
     <h4 style="text-align:center;">Hi readers, I am Marcus Yeo and i have a few retarded friends. Here are some pictures of prove. ENJOY!!<
-      <img src="koksuan.jpg">
+      <img src="koksuan.jpg" height="200" width="300">
   </body>
   
 </html>
